@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Demo Custom Record Page">58baa3e147920a10a3ba87fe016d437c</macroponent>
+        <name>viewport_gph/initiallyCollapsed</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return api.context.props.userPrefs['workspace.showAgentAssist'] != 'true';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>pramod.yadav</sys_created_by>
+        <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+        <sys_id>5cbaa3e147920a10a3ba87fe016d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>viewport_gph/initiallyCollapsed</sys_name>
+        <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+        <sys_update_name>sys_ux_client_script_5cbaa3e147920a10a3ba87fe016d437f</sys_update_name>
+        <sys_updated_by>pramod.yadav</sys_updated_by>
+        <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>
