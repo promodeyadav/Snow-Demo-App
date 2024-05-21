@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="demo_field_1" label="Demo field 1" language="en" table="x_741912_demo_app_demo_custom">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>demo_field_1</element>
+            <help/>
+            <hint/>
+            <label>Demo field 1</label>
+            <language>en</language>
+            <name>x_741912_demo_app_demo_custom</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 11:04:03</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Demo field 1</sys_name>
+            <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+            <sys_update_name>sys_documentation_x_741912_demo_app_demo_custom_demo_field_1_en</sys_update_name>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 11:04:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
