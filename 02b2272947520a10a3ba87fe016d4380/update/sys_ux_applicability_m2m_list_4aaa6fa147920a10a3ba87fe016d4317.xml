@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app demo-app">39aa2fa147920a10a3ba87fe016d43b3</applicability>
+        <list display_value="All">02aa6fa147920a10a3ba87fe016d4304</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>pramod.yadav</sys_created_by>
+        <sys_created_on>2024-05-21 09:45:04</sys_created_on>
+        <sys_id>4aaa6fa147920a10a3ba87fe016d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_4aaa6fa147920a10a3ba87fe016d4317</sys_update_name>
+        <sys_updated_by>pramod.yadav</sys_updated_by>
+        <sys_updated_on>2024-05-21 09:45:04</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

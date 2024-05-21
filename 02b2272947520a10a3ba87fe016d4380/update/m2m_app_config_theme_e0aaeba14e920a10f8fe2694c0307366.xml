@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>pramod.yadav</sys_created_by>
+        <sys_created_on>2024-05-21 09:44:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0aaeba14e920a10f8fe2694c0307366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+        <sys_update_name>m2m_app_config_theme_e0aaeba14e920a10f8fe2694c0307366</sys_update_name>
+        <sys_updated_by>pramod.yadav</sys_updated_by>
+        <sys_updated_on>2024-05-21 09:44:59</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Demo App App Config">e4aaeba1e8920a10eea6ef0f87db6a68</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Demo App Portal">31ab2f2547920a10a3ba87fe016d4343</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">82ab2f255a920a101de0d506f3ba6295</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-21 09:49:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bdab2f258a920a10c084aa50685e8c74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+        <sys_update_name>sys_ux_page_property_bdab2f258a920a10c084aa50685e8c74</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-21 09:49:30</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_741912_demo_app.31ab2f2547920a10a3ba87fe016d4343.route.chrome_header.82ab2f255a920a101de0d506f3ba6295</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bdab2f258a920a10c084aa50685e8c74"/>
+</record_update>

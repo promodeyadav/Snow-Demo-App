@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_741912_demo_app_demo_custom" version="2" view="workspace-demo-app-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>58baa3e147920a10a3ba87fe016d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>50baa3e147920a10a3ba87fe016d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>54baa3e147920a10a3ba87fe016d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>58baa3e147920a10a3ba87fe016d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>5cbaa3e147920a10a3ba87fe016d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_741912_demo_app_demo_custom" element="NULL" name="x_741912_demo_app_demo_custom" parent="NULL" relationship="NULL" sys_domain="global" view="64aaeba104920a1052faabc0224e7a5e">d4baa3e147920a10a3ba87fe016d43ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_id>50baa3e147920a10a3ba87fe016d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_741912_demo_app_demo_custom</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>pramod.yadav</sys_created_by>
+            <sys_created_on>2024-05-21 09:45:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4baa3e147920a10a3ba87fe016d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_741912_demo_app_demo_custom</sys_name>
+            <sys_package display_value="Demo App" source="x_741912_demo_app">02b2272947520a10a3ba87fe016d4380</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo App">02b2272947520a10a3ba87fe016d4380</sys_scope>
+            <sys_update_name>sys_ui_list_x_741912_demo_app_demo_custom_workspace-demo-app-0</sys_update_name>
+            <sys_updated_by>pramod.yadav</sys_updated_by>
+            <sys_updated_on>2024-05-21 09:45:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Demo App 0" name="workspace-demo-app-0">64aaeba104920a1052faabc0224e7a5e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
