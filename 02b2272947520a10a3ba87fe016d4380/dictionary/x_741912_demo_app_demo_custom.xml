@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="3993e76947520a10a3ba87fe016d436e" extends="task" label="Demo Custom" max_length="40" name="x_741912_demo_app_demo_custom" text_index="true" type="collection">
         <element label="Field by Pro" max_length="32" name="field_by_pro" reference="sys_user" type="reference"/>
-        <element label="Demo field 1" max_length="40" name="demo_field_1" type="string"/>
         <element label="Field by BMTP" max_length="40" name="field_by_bmtp" type="string"/>
+        <element label="created by Pramod" max_length="40" name="created_by_pramod" type="string"/>
+        <element label="Demo field 1" max_length="40" name="demo_field_1" type="string"/>
         <element label="Demo Field 2" max_length="255" name="demo_field_2" type="glide_date_time"/>
     </element>
 </database>
