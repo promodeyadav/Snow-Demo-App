@@ -4,6 +4,7 @@
         <element label="Field by BMTP" max_length="40" name="field_by_bmtp" type="string"/>
         <element label="created by Pramod" max_length="40" name="created_by_pramod" type="string"/>
         <element label="Demo field 1" max_length="40" name="demo_field_1" type="string"/>
+        <element label="Demo Test Field by BMT USER" max_length="40" name="demo_test_field_by_bmt_user" type="string"/>
         <element label="Demo Field 2" max_length="255" name="demo_field_2" type="glide_date_time"/>
     </element>
 </database>
